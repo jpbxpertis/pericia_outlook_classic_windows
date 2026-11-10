@@ -1,0 +1,5 @@
+# Salida del script (contiene correos reales: nunca subir)
+Pericia_Export/
+*.msg
+*.pst
+*.zip
