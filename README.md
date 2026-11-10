@@ -144,3 +144,7 @@ Borrar antes las corridas de prueba o incompletas, para que en `Pericia_Export` 
 ## Licencia
 
 [MIT](LICENSE). Uso libre, sin garantías.
+
+---
+
+Desarrollado por **[Xpertis](https://www.xpertis.com.ar)** · [www.xpertis.com.ar](https://www.xpertis.com.ar)

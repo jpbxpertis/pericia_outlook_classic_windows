@@ -25,6 +25,9 @@
   Outlook clasico debe estar abierto con ese mismo usuario.
   Salida: Documentos\Pericia_Export\AAAAMMDD_HHMMSS\
 
+  Xpertis - https://www.xpertis.com.ar
+  https://github.com/jpbxpertis/pericia_outlook_classic_windows
+
 .EXAMPLE
   .\Exportar-Pericia.ps1
   .\Exportar-Pericia.ps1 -IncluirSubcarpetas
